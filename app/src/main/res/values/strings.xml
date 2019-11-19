@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">ListVIew</string>
+
+    <!-- Array of components of listView-->
+    <string-array name="nameOFStates">
+
+        <item> Gujarat </item>
+        <item> Rajasthan </item>
+        <item> Maharashtra </item>
+        <item> Hyderabad </item>
+        <item> Tamil Nadu </item>
+        <item> Kerala </item>
+        <item> Manipur </item>
+        <item> Bihar </item>
+        <item> Mizoram </item>
+        <item> Manipur </item>
+        <item> Assam </item>
+        <item> Sikkim </item>
+        <item> Telangana </item>
+        <item> Jharkand </item>
+        <item> Nagaland </item>
+
+    </string-array>
+
+</resources>
